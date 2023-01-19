@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Zhang Wei, the author of 《[React17源码解析](https://react.cloud-wave.cn)》and owner of the website [Finance Data](https://cvar.link)
+I am Lewis Zhang and owner of the website [Finance Data](https://cvar.link)
 
 - 🔭 I’m currently working on CloudWave, and worked in IBM、Rootcloud
 - 🌱 I’m currently buiding [icecremd](https://github.com/ZhangWei-KUMO/icecreamd),which is a React UI library.
