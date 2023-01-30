@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-I am Lewis Zhang and owner of the website [Finance Data](https://cvar.link)
-
-- 🔭 I’m currently working on CloudWave, and worked in IBM、Rootcloud
-- 🌱 I’m currently buiding [icecremd](https://github.com/ZhangWei-KUMO/icecreamd),which is a React UI library.
-- 💬 Ask me about React/Vue and other JavaScript questions.
-- 📫 How to reach me: [公众号：云帧数浪]
-- ⚡ Fun fact: Hybrid DB of IBM Cloud/Fabric Applications/Root Cloud SaaS...
+- The independent developer for Chrome Extension "基本面助手" and cvar.link  website
+- Kaggle Expert for data analysis
+- The independent Columnist on Zhihu(Chinese Quaro)
   
