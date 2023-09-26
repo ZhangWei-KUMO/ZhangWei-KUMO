@@ -1,6 +1,7 @@
 ### Hi there 👋
-A pure software developer who enjoys developing data analysis and AI models. In his spare time, he writes articles and technical blogs on Zhihu, and has published academic papers in domestic and international core journals. He has released four open-source and free web software and Chrome plugins, mainly AI applications based on the Transformer architecture.
+Lewis Zhang | Hercules Co-Founder & CTO
 
-一个纯粹的软件开发人员，喜欢数据分析和AI模型的开发。平时抽空会在知乎上面写文章和技术博客，在国内外核心期刊也发表过正经论文。
-目前发布了四款开源免费Web软件和Chrome插件,主要是基于Transformer架构的AI应用。
+Master's degree from the School of Statistics and Management at Shanghai University of Finance and Economics. Previously worked as a software development engineer at IBM and Wushu Technology (now known as Root Cloud), specializing in deep learning software application development and quantitative strategy development. Looking forward to becoming friends with developers from all around the world.
+
+硕士毕业于上海财经大学统计与管理学院，曾于IBM、物数科技（现树根互联）担任软件开发工程师，长期致力于深度学习软件应用开发和量化策略开发。希望与全世界的开源开发者成为朋友。
   
