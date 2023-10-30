@@ -1,5 +1,5 @@
 ### Hi there 👋
-Lewis Zhang | Hercules Co-Founder & CTO
+Lewis Zhang | TubeX Co-Founder & CTO
 
 Master's degree from the School of Statistics and Management at Shanghai University of Finance and Economics. Previously worked as a software development engineer at IBM and Wushu Technology (now known as Root Cloud), specializing in deep learning software application development and quantitative strategy development. Looking forward to becoming friends with developers from all around the world.
 
